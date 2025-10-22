@@ -5,6 +5,10 @@ body {
 .avatar {
     width: 150px;
 }
+.card{
+    border: 2px dotted blue ;
+    padding: 20px;
+}
 
 /*
 Challenge:
